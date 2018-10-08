@@ -1,2 +1,4 @@
-# swa
-How to hack web App
+# How to Hack a Web Application- Security Practices
+Learn how to  hack website or Web application and  how to  write secure Web application.
+
+This course for anyone who wants to hack web Apps or secure web Apps or test web apps from scratch, We will start by discus fundamentals of web development. Then we will start talking about how to gathering Information on the Target to attack. Then we will learn how to Bypass Restriction and validation of input then how to secure our web Apps from the bypassing process. Then we will talk about a number of attacks such as Query String Attack, Cookies Attack, Hidden Field attack, URL Jumping Attack, and how to use Session Hijacking to stole user identity. Then we will talk about XSS Attack and how could be used to stole cookies and show ADS or apply pishing, and SQL Injection that could be used to break the Web App database. Then we will talk about Directory Traversal and Denial Of Service. All the practises has real-world exercises
