@@ -1,0 +1,5 @@
+(USD)	Mar 2017	Y/Y
+Revenue	13.23B	41.95%
+Net income	5.11B	31.12%
+Diluted EPS	1.74	31.82%
+Net profit margin	38.59%	7.64%

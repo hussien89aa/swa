@@ -1,0 +1,9 @@
+(USD)	Mar 2018	Y/Y
+Revenue	11.97B	48.98%
+Net income	4.99B	62.79%
+Diluted EPS	1.69	62.5%
+Net profit margin	41.68%	9.25%
+Operating income	5.45B	63.78%
+Net change in cash	4.01B	-
+Cash on hand	12.08B	70.07%
+Cost of revenue	1.93B	66.26%
