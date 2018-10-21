@@ -13,13 +13,17 @@
         </br>
 
         <?php
+    //Avoid CSRF attack
+    // make sure it is post process
         if($_POST){
+            // if token not vaild reject request
             if($_POST["csrf"] != $_SESSION["token"]){
                 echo " not valid request";
                 return ;
             }
 
         }
+// create new token for every new request
         $_SESSION["token"] = md5(uniqid(mt_rand(),true));
         echo $_SESSION["token"];
         ?>
