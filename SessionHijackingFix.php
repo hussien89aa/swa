@@ -29,6 +29,6 @@ if(empty($_SESSION['tokenH'])){
 }else {
     // if attack happen, or user IP changed(switch to other router), ask user to re-open the browser
     if(!password_verify(  getUserPCInfo(),$_SESSION['tokenH'] ) ) {
-        die($translatePhrase("10462?You are not using a valid Token, close the browser and open it again"));
+        die("You are not using a valid Token, close the browser and open it again");
     }
 }
