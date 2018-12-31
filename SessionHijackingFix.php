@@ -6,7 +6,6 @@
 * NOTE: DONOT add session_start() anywhere.
 * If your file needs session, make sure to include this header -->  require_once 'SessionManagement.php';
 */
-require_once 'php_includes/translation.inc';
 
 session_start();
 
